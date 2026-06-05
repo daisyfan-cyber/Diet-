@@ -1,6 +1,0 @@
-{
-  "name": "飲食順序創意決策助理",
-  "description": "以箭形時間圖架構（吃飯前、中、後）智慧組合零食、喝水與水果，全方位改善與強化健康、減重及穩定情緒的創意引導工具。",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
